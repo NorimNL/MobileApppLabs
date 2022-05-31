@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.484" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.484" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_add_task.xml" value="0.5" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_categoty_list.xml" value="0.2035195103289977" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_enter_category.xml" value="0.42105263157894735" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_enter_status.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_enter_subject.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_list_category.xml" value="0.9" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_list_categoty.xml" value="0.198125" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_list_status.xml" value="0.5480072463768116" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_list_subject.xml" value="0.2695035460992908" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_list_task.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_location_view.xml" value="0.5131340579710145" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_status_list.xml" value="0.33" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_tesk_item.xml" value="0.1" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_update_category.xml" value="0.5" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_update_status.xml" value="0.26266464032421477" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_update_subject.xml" value="0.26266464032421477" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/category_item.xml" value="0.5401041666666667" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/status_item.xml" value="0.4169811320754717" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/status_list_menu.xml" value="0.26266464032421477" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/subject_item.xml" value="0.4075471698113208" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/layout/task_item.xml" value="0.67" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/menu/category_list_menu.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/menu/status_list_menu.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/menu/subject_list_menu.xml" value="0.3731481481481482" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/menu/task_list_menu.xml" value="0.30185185185185187" />
+        <entry key="..\:/Users/Norim/AndroidStudioProjects/Notes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.484" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
